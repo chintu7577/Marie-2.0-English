@@ -19,7 +19,7 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello {}, Iam a bot and my name is {}😎 Im a group manager bot.
+Hello {}, Iam a bot and my name is {}. Im a group manager bot.
 No use in messaging me here am available on @Telugumovie_rocks
 **U r not able to do any thing in this so be silent.**
 
